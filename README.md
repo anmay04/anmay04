@@ -9,7 +9,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="250" alt="coder-gif"/>
 </p>
 ---
-### 🕹️ Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmay04/anmay04/output/pacman-contribution-graph-dark.svg">
@@ -126,7 +125,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmay04&show_icons=true&theme=dracula" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=anmay04&show_icons=true&theme=dracula" height="150" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmay04&layout=compact&theme=dracula" height="150" />
 </div>
 
